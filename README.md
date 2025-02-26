@@ -1,5 +1,5 @@
 # Using Blender with Logitech MX Creative Console on MacOS
-Logitech Creative Console has the potential to dramatically boost your workflow while working in Blender. Unfortunately, Logi Option+ on MacOS (as of version x.xx) doesn't correctly send modifier keys (Command, Control, etc.) to Blender.
+Logitech Creative Console has the potential to dramatically boost your workflow while working in Blender. Unfortunately, Logi Option+ on MacOS (as of version 1.86.669369) doesn't correctly send modifier keys (Command, Control, etc.) to Blender.
 
 Hopefully, Logitech will fix the issue or someone will create a Profile in the Logi Marketplace.
 
