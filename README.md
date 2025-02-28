@@ -27,4 +27,16 @@ Being the impatient person that I am, I came up with a solution using AppleScrip
 
 4. Hit Save and you've now configured a key to send a keypress + modifier to Blender. 
 
-Of course, you'll probably want to edit the icon and text label to make the button more meaningful and aesthetically pleasing.
+## Icons
+
+1. Download [blenderIcons.zip](icons/blenderIcons.zip) to your Mac and unzip.
+
+2. Select Edit Icon
+
+![image](docs/assets/EditIcon.png)
+
+3. Click the 'Browse Icon' and select an icon from blenderIcons you downloaded and unzipped earlier and update the Text field.
+
+![image](docs/assets/AddTextAndIcon.png)
+
+
