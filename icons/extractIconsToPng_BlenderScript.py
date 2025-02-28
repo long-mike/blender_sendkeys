@@ -73,7 +73,7 @@ def setup_top_view_camera(obj):
     
     # Set orthographic if you want a true top-down view without perspective
     cam.data.type = 'ORTHO'
-    cam.data.ortho_scale = max_dim * 1.2  # Adjust scale to fit object
+    cam.data.ortho_scale = max_dim  # Adjust scale to fit object
     
     return cam
 
