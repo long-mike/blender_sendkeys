@@ -27,7 +27,7 @@ Being the impatient person that I am, I came up with a solution using AppleScrip
 
 4. Hit Save and you've now configured a key to send a keypress + modifier to Blender. 
 
-## Icons
+## Update Icon and Text
 
 1. Download [blenderIcons.zip](icons/blenderIcons.zip) to your Mac and unzip.
 
@@ -35,8 +35,6 @@ Being the impatient person that I am, I came up with a solution using AppleScrip
 
 ![image](docs/assets/EditIcon.png)
 
-3. Click the 'Browse Icon' and select an icon from blenderIcons you downloaded and unzipped earlier and update the Text field.
+3. Click the 'Browse Icon' and select an image from [blenderIcons.zip](icons/blenderIcons.zip) you downloaded and unzipped earlier or one you've created yourself. Update the Text field.
 
 ![image](docs/assets/AddTextAndIcon.png)
-
-
